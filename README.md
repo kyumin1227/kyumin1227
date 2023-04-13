@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumin1227&show_icons=true&theme=gruvbox_light)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyumin1227&show_icons=true&locale=en" alt="kyumin1227" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin1227&langs_count=8)](https://github.com/kyumin1227/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyumin1227&" alt="kyumin1227" /></p>
 </div>
