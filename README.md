@@ -14,4 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyumin1227&show_icons=true&theme=gruvbox_light" />
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/d39c375e-cb2a-438f-b6b9-95c99509a5da.svg)](https://wakatime.com/@d39c375e-cb2a-438f-b6b9-95c99509a5da)
+
 </div>
