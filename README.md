@@ -21,13 +21,15 @@ type KyuminTechStack = {
 ## 📊 Stats
 
 <p align="center">
-  <img width="57.5%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyumin1227&hide_border=true&theme=solarized-light" alt="kyumin1227" />
-  <img width="41.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin1227&layout=compact&hide_border=true&theme=solarized-light" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyumin1227&hide_border=true&theme=solarized-light" alt="kyumin1227" />
+  &nbsp;
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin1227&layout=compact&hide_border=true&theme=solarized-light" />
 </p>
 
 <p align="center">
-  <img width="46%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyumin1227" />
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=kyumin1227&show_icons=true&hide_border=true&theme=solarized-light" />
+  <img width="44%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyumin1227" />
+  &nbsp;
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=kyumin1227&show_icons=true&hide_border=true&theme=solarized-light" />
 </p>
 
 <p align="center">
