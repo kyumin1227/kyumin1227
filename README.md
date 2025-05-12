@@ -1,13 +1,15 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=150&color=FEF6E3&text=Hi%20👋,%20I'm%20Kyumin&section=header&reversal=true&textBg=false&rotate=0&animation=twinkling&descAlign=50&fontSize=50&fontColor=268BD2">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=150&color=FEF6E3&text=Hi%20👋,%20I'm%20Kyumin&section=header&reversal=true&textBg=false&rotate=0&animation=twinkling&descAlign=56&fontSize=50&fontColor=268BD2&fontAlign=50&fontAlignY=50&desc=%20Full-Stack%20Developer%20in%20training&descAlignY=75">
 </p>
+
+## 
 
 ## 🛠️ Tech Stack
 ```typescript
 type KyuminTechStack = {
   languages: "Java" | "Python" | "TypeScript", | "📚 Go";
   frontend: "React" | "Next.js";
-  backend: "Spring Boot" | "Flask", "Express";
+  backend: "Spring Boot" | "Flask" | "Express";
   Database: "MySQL" | "MongoDB";
   ai: "YOLO" | "PyTorch";
   cloud: "AWS" | "Vercel";
