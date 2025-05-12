@@ -5,14 +5,14 @@
 ## 🛠️ Tech Stack
 ```typescript
 type KyuminTechStack = {
-  languages: "Java" | "Python" | "TypeScript", | "📚 Go";
+  languages: "Java" | "Python" | "TypeScript" | "📚 Go";
   frontend: "React" | "Next.js";
   backend: "Spring Boot" | "Flask" | "Express";
   Database: "MySQL" | "MongoDB";
   ai: "YOLO" | "PyTorch";
   cloud: "AWS" | "Vercel";
   container: "Docker" | "📚 Kubernetes";
-  ci_cd: "GitHub Actions"
+  ci_cd: "GitHub Actions";
 };
 
 // 📚: Now Studying
