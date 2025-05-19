@@ -35,3 +35,10 @@ type KyuminTechStack = {
 <p align="center">
   <a href="https://wakatime.com/@d39c375e-cb2a-438f-b6b9-95c99509a5da"><img src="https://wakatime.com/badge/user/d39c375e-cb2a-438f-b6b9-95c99509a5da.svg"></a>
 </p>
+
+## 📝 Blog
+<p align="center">
+  <a href="https://kyumin.dev">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=🔗%20kyumin.dev&desc=Built%20with%20Next.js%20—%20🇰🇷🇯🇵&descSize=15&section=footer&fontSize=50&descAlignY=90&fontAlignY=63&textBg=false&animation=twinkling&descAlign=53">
+  </a>
+</p>
