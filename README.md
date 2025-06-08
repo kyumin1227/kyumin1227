@@ -4,11 +4,11 @@
 
 ## 🛠️ Tech Stack
 ```typescript
-type KyuminTechStack = {
+type kyuminTechStack = {
   languages: "Java" | "Python" | "TypeScript" | "📚 Go";
   frontend: "React" | "Next.js";
   backend: "Spring Boot" | "Flask" | "Express";
-  Database: "MySQL" | "MongoDB";
+  database: "MySQL" | "MongoDB";
   ai: "YOLO" | "PyTorch";
   cloud: "AWS" | "Vercel";
   container: "Docker" | "📚 Kubernetes";
