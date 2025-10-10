@@ -5,14 +5,17 @@
 ## 🛠️ Tech Stack
 ```typescript
 type kyuminTechStack = {
-  languages: "Java" | "Python" | "TypeScript" | "📚 Go";
+  languages: "Java" | "Python" | "TypeScript" | "📚 Go" | "📚 Kotlin";
   frontend: "React" | "Next.js";
-  backend: "Spring Boot" | "Flask" | "Express";
-  database: "MySQL" | "MongoDB";
+  backend: "Spring Boot" | "Flask" | "Express" | "📚 gin";
+  database: "MySQL" | "MongoDB" | "Redis";
+  message_broker: "📚 Kafka";
+  protocol: "📚 gRPC"
   ai: "YOLO" | "PyTorch";
   cloud: "AWS" | "Vercel";
   container: "Docker" | "📚 Kubernetes";
-  ci_cd: "GitHub Actions";
+  ci_cd: "GitHub Actions" | "📚 ArgoCD";
+  iac: "📚 Terraform" | "📚 Ansible";
 };
 
 // 📚: Now Studying
